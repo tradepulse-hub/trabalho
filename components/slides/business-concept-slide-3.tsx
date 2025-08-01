@@ -25,7 +25,7 @@ export default function BusinessConceptSlide3({
         </div>
         <div className="lg:w-1/2">
           <Image
-            src="/images/modern-restaurant-interior.png" // Caminho da imagem
+            src="/images/image2.png" // Caminho da imagem
             alt="Interior Moderno do Restaurante"
             width={400}
             height={300}
